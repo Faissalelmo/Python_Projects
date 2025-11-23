@@ -24,10 +24,6 @@
 - 📈 **Progressive difficulty** - Beginner to intermediate
 - 🔗 **Portfolio-ready** - Showcase-worthy projects
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Data+Science+Projects" alt="Projects Overview" width="700"/>
-</p>
-
 ---
 
 ## 📋 Table of Contents
@@ -1082,10 +1078,10 @@ Data Science Engineer | Machine Learning Specialist | Python Expert
 - **SLI Project** - Speed limit detection with YOLOv8 (97%+ reliability)
 
 ### Connect
-- 📧 **Email** : your.email@example.com
-- 🔗 **LinkedIn** : [linkedin.com/in/yourprofile](https://linkedin.com)
-- 💻 **GitHub** : [github.com/YourUsername](https://github.com)
-- 🌐 **Portfolio** : [yourportfolio.com](https://example.com)
+- 📧 **Email** : faissalelmokaddem@gmail.com
+- 🔗 **LinkedIn** : [linkedin_profile](https://linkedin.com/in/faissal-elmokaddem)
+- 💻 **GitHub** : [GitHub Repo](https://github.com/Faissalelmo/Python_Projects) - Explore the code
+- 🌐 **Portfolio** : [Portfolio](https://faissal-s-portfolio.vercel.app/) - Explore my portfolio
 
 ---
 
